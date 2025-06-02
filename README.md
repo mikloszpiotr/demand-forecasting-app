@@ -66,12 +66,6 @@ streamlit run app.py
 
 ---
 
-## 📊 Sample Screenshot
-
-(You can insert a screenshot from the running app here)
-
----
-
 ## 🎯 Business Use Case
 
 This app can help supply chain and operations teams:
@@ -85,6 +79,4 @@ This app can help supply chain and operations teams:
 ## 🧠 About the Author
 
 **Piotr Miklosz**  
-Supply Chain & Data Analytics professional  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📬 Feel free to connect and share feedback!
+
